@@ -1,0 +1,12 @@
+C:\Users\bewar\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\bin\Debug\REST-API-Client-lib.dll
+C:\Users\bewar\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\bin\Debug\REST-API-Client-lib.pdb
+C:\Users\bewar\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.csproj.AssemblyReference.cache
+C:\Users\bewar\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.csproj.CoreCompileInputs.cache
+C:\Users\bewar\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.dll
+C:\Users\bewar\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.pdb
+C:\Users\TGF\Documents\GitHub\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\bin\Debug\REST-API-Client-lib.dll
+C:\Users\TGF\Documents\GitHub\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\bin\Debug\REST-API-Client-lib.pdb
+C:\Users\TGF\Documents\GitHub\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.csproj.AssemblyReference.cache
+C:\Users\TGF\Documents\GitHub\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.csproj.CoreCompileInputs.cache
+C:\Users\TGF\Documents\GitHub\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.dll
+C:\Users\TGF\Documents\GitHub\File-Hosting-Rest-API-with-Authorization\REST-API\REST-API-Client-lib\obj\Debug\REST-API-Client-lib.pdb
